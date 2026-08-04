@@ -23,14 +23,14 @@ st.set_page_config(
 )
 
 # --- Professional Cream/Beige Color Palette ---
-PRIMARY_COLOR = "#2C3E50"        # Dark blue-gray (professional)
+PRIMARY_COLOR = "#2C3E50"       # Dark blue-gray (professional)
 SECONDARY_COLOR = "#E8DCC4"      # Cream/beige
 ACCENT_COLOR = "#D4A574"         # Warm taupe
 SUCCESS_COLOR = "#5F9B6B"        # Muted green
 WARNING_COLOR = "#C9915A"        # Warm amber
 DANGER_COLOR = "#A0616A"         # Muted rose
 NEUTRAL_LIGHT = "#F5F3F0"        # Off-white/cream
-NEUTRAL_DARK = "#4A4542"         # Charcoal
+NEUTRAL_DARK = "black"         # Charcoal
 
 # Apply theme via Streamlit config
 st.markdown(f"""
@@ -63,9 +63,9 @@ st.markdown(f"""
     .user-message {{
         background: linear-gradient(135deg, {PRIMARY_COLOR} 0%, {ACCENT_COLOR} 100%);
         color: white;
-        padding: 14px 16px;
+        # padding: 14px 16px;
         border-radius: 12px;
-        margin: 10px 0;
+        # margin: 5px 0;
         border-left: 4px solid {ACCENT_COLOR};
         box-shadow: 0 2px 8px rgba(44, 62, 80, 0.1);
     }}
@@ -73,9 +73,9 @@ st.markdown(f"""
     .bot-message {{
         background-color: #FFFFFF;
         color: {NEUTRAL_DARK};
-        padding: 14px 16px;
+        # padding: 14px 16px;
         border-radius: 12px;
-        margin: 10px 0;
+        # margin: 5px 0;
         border-left: 4px solid {SUCCESS_COLOR};
         box-shadow: 0 2px 8px rgba(95, 155, 107, 0.1);
     }}
@@ -88,9 +88,9 @@ st.markdown(f"""
     /* Metric cards */
     .metric-card {{
         color: white;
-        padding: 20px;
+        # padding: 10px;
         border-radius: 12px;
-        margin: 12px 0;
+        # margin: 5px 0;
         box-shadow: 0 4px 12px rgba(44, 62, 80, 0.15);
         font-weight: 500;
     }}
@@ -112,25 +112,25 @@ st.markdown(f"""
         font-size: 36px;
         font-weight: 700;
         color: white;
-        margin-bottom: 8px;
+        # margin-bottom: 8px;
         letter-spacing: -0.5px;
     }}
     
     .header-subtitle {{
         font-size: 15px;
         color: {NEUTRAL_DARK};
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         opacity: 0.8;
     }}
     
     /* Status badges */
     .status-badge {{
         display: inline-block;
-        padding: 6px 14px;
+        # padding: 6px 14px;
         border-radius: 20px;
         font-size: 12px;
         font-weight: 600;
-        margin: 4px 4px 4px 0;
+        # margin: 4px 4px 4px 0;
         letter-spacing: 0.3px;
     }}
     
@@ -155,11 +155,11 @@ st.markdown(f"""
     /* Source citations */
     .source-citation {{
         background-color: {SECONDARY_COLOR};
-        padding: 10px 14px;
+        # padding: 10px 14px;
         border-radius: 8px;
         font-size: 13px;
         color: {NEUTRAL_DARK};
-        margin: 6px 0;
+        # margin: 6px 0;
         border-left: 4px solid {ACCENT_COLOR};
     }}
     
@@ -169,7 +169,7 @@ st.markdown(f"""
         color: black;
         border: none;
         border-radius: 8px;
-        padding: 10px 24px;
+        # padding: 10px 24px;
         font-weight: 600;
         letter-spacing: 0.3px;
         transition: all 0.3s ease;
@@ -191,7 +191,7 @@ st.markdown(f"""
         background-color: #FFFFFF;
         border: 2px solid {SECONDARY_COLOR};
         color: black;
-        padding: 12px;
+        # padding: 5px;
         border-radius: 8px;
     }}
     
