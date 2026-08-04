@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Agentic%20AI/Bussiness-Copilot/mlruns/367871360951763229/3ed779981c2042b6a449849995fc1ec7/artifacts
+end_time: 1785565094245
+entry_point_name: ''
+experiment_id: '367871360951763229'
+lifecycle_stage: active
+run_id: 3ed779981c2042b6a449849995fc1ec7
+run_name: xgboost
+run_uuid: 3ed779981c2042b6a449849995fc1ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785565091125
+status: 3
+tags: []
+user_id: Mr

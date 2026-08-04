@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Agentic%20AI/Bussiness-Copilot/mlruns/367871360951763229/14c0a32ff6d94502b9a8d7d388b1a134/artifacts
+end_time: 1785565087269
+entry_point_name: ''
+experiment_id: '367871360951763229'
+lifecycle_stage: active
+run_id: 14c0a32ff6d94502b9a8d7d388b1a134
+run_name: logistic_regression
+run_uuid: 14c0a32ff6d94502b9a8d7d388b1a134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785565082843
+status: 3
+tags: []
+user_id: Mr

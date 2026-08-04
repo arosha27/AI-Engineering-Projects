@@ -1,0 +1,25 @@
+# --- Core API ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.10.4
+
+# --- Gemini (new unified SDK — NOT google-generativeai) ---
+google-genai==2.8.0
+
+# --- Vector database ---
+chromadb==0.5.23
+
+# --- Document processing ---
+pypdf==5.1.0
+
+# --- Predictive model (Week 3) ---
+pandas==2.2.3
+scikit-learn==1.5.2
+xgboost==2.1.3
+mlflow==2.19.0
+
+# --- Frontend (Week 5) ---
+streamlit==1.41.1
+
+requests

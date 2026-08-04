@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Agentic%20AI/Bussiness-Copilot/mlruns/367871360951763229/ed27efb1d5ff4c68948eb0513fac3a7c/artifacts
+end_time: 1785565095718
+entry_point_name: ''
+experiment_id: '367871360951763229'
+lifecycle_stage: active
+run_id: ed27efb1d5ff4c68948eb0513fac3a7c
+run_name: lightgbm
+run_uuid: ed27efb1d5ff4c68948eb0513fac3a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785565094252
+status: 4
+tags: []
+user_id: Mr

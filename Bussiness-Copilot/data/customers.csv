@@ -1,0 +1,301 @@
+customer_id,name,city,signup_date,total_orders,last_order_date,support_tickets,avg_review_rating,total_spent_pkr,preferred_category,used_coupon_last_order,churned
+C1001,Omar Ahmed,Karachi,2024-06-02,2,2026-04-08,0,5.0,21906,Accessories,No,No
+C1002,Hira Butt,Rawalpindi,2025-01-30,4,2025-10-17,0,3.2,23667,Accessories,No,No
+C1003,Ali Malik,Peshawar,2025-07-18,2,2026-04-12,4,3.7,7998,Home Appliances,No,No
+C1004,Mahnoor Sheikh,Hyderabad,2026-02-24,10,2026-04-26,0,3.6,162245,Home Appliances,Yes,No
+C1005,Bilal Butt,Faisalabad,2026-04-11,7,2026-04-12,0,3.7,57084,Home Appliances,No,No
+C1006,Rabia Ahmed,Sialkot,2024-09-19,1,2025-07-23,0,3.2,16844,Kitchen Appliances,Yes,Yes
+C1007,Ahsan Khan,Rawalpindi,2024-03-12,1,2026-02-20,1,5.0,11291,Kitchen Appliances,No,No
+C1008,Mehwish Hussain,Quetta,2026-02-05,2,2026-05-29,2,2.5,18281,Accessories,No,No
+C1009,Hamza Qureshi,Quetta,2026-03-30,6,2026-04-12,0,2.8,54261,Smartphones,No,No
+C1010,Sidra Qureshi,Faisalabad,2024-12-12,7,2026-07-26,2,5.0,98970,Kitchen Appliances,No,No
+C1011,Komal Malik,Quetta,2026-06-28,10,2026-07-15,5,4.0,41494,Kitchen Appliances,No,No
+C1012,Shahid Chaudhry,Rawalpindi,2026-01-26,2,2026-06-20,1,4.1,5018,Home Appliances,No,No
+C1013,Iqra Raza,Rawalpindi,2026-05-03,2,2026-05-20,4,4.8,7146,Accessories,Yes,No
+C1014,Farhan Qureshi,Islamabad,2025-10-03,3,2025-12-27,5,5.0,39579,Kitchen Appliances,No,No
+C1015,Bilqees Iqbal,Quetta,2025-01-18,3,2026-03-27,0,3.3,18200,Laptops,Yes,Yes
+C1016,Omar Khan,Rawalpindi,2026-04-23,8,2026-06-19,0,4.0,46565,Laptops,No,No
+C1017,Farhan Hussain,Rawalpindi,2026-03-27,1,2026-06-06,0,2.4,3340,Kitchen Appliances,Yes,No
+C1018,Mahnoor Iqbal,Lahore,2025-10-20,1,2025-10-30,1,3.3,6372,Smartphones,No,No
+C1019,Yusra Ahmed,Karachi,2024-09-02,15,2026-07-24,5,5.0,76167,Audio,No,No
+C1020,Anum Khan,Islamabad,2025-06-08,1,2026-01-13,0,4.1,9057,Kitchen Appliances,No,No
+C1021,Imran Butt,Karachi,2024-11-15,5,2026-06-30,2,5.0,51471,Accessories,Yes,No
+C1022,Shahid Ahmed,Islamabad,2026-04-22,4,2026-05-06,3,2.1,45320,Accessories,Yes,No
+C1023,Rizwan Chaudhry,Sialkot,2025-01-12,2,2026-03-20,0,3.8,17269,Kitchen Appliances,No,No
+C1024,Alishba Ahmed,Karachi,2025-03-19,4,2025-10-16,5,4.5,26442,Home Appliances,Yes,No
+C1025,Iqra Raza,Islamabad,2025-04-09,7,2025-08-05,0,5.0,74890,Kitchen Appliances,No,No
+C1026,Fahad Malik,Faisalabad,2026-03-05,7,2026-03-12,0,3.8,54703,Kitchen Appliances,No,No
+C1027,Tariq Khan,Lahore,2024-09-20,3,2026-03-12,0,3.7,53061,Laptops,No,No
+C1028,Komal Qureshi,Karachi,2026-03-09,1,2026-06-23,1,4.5,4795,Laptops,Yes,No
+C1029,Bilal Iqbal,Rawalpindi,2024-08-02,2,2026-06-09,0,2.2,35189,Kitchen Appliances,Yes,No
+C1030,Amna Malik,Islamabad,2025-05-05,1,2025-07-19,4,4.1,12884,Kitchen Appliances,Yes,Yes
+C1031,Areeba Ahmed,Peshawar,2026-05-23,7,2026-07-03,0,4.6,106528,Laptops,Yes,No
+C1032,Kashif Hussain,Multan,2025-09-19,7,2026-03-11,0,2.5,109037,Home Appliances,Yes,No
+C1033,Tariq Malik,Sialkot,2025-10-03,1,2025-12-21,0,4.1,17756,Smartphones,No,No
+C1034,Kashif Raza,Karachi,2024-07-06,3,2025-11-07,4,2.5,42001,Kitchen Appliances,Yes,Yes
+C1035,Usman Iqbal,Sialkot,2025-08-14,5,2026-05-29,2,3.7,44150,Audio,No,No
+C1036,Kashif Hussain,Peshawar,2024-08-07,5,2026-05-03,1,3.5,12531,Home Appliances,Yes,No
+C1037,Wajiha Chaudhry,Multan,2025-03-12,3,2025-08-20,0,2.0,44515,Laptops,Yes,Yes
+C1038,Bilqees Chaudhry,Multan,2026-03-28,6,2026-04-26,0,3.3,28704,Smartphones,Yes,No
+C1039,Laiba Ahmed,Quetta,2025-05-03,7,2025-10-10,0,3.6,43972,Kitchen Appliances,Yes,No
+C1040,Ahsan Ahmed,Peshawar,2025-11-19,1,2025-11-28,2,2.8,16721,Smartphones,No,Yes
+C1041,Sidra Qureshi,Hyderabad,2024-10-30,2,2025-07-10,3,2.8,20648,Accessories,No,No
+C1042,Haris Sheikh,Quetta,2025-10-09,6,2026-03-12,2,2.6,40538,Smartphones,No,No
+C1043,Fatima Iqbal,Hyderabad,2026-04-10,1,2026-07-02,0,4.3,8930,Home Appliances,No,No
+C1044,Nida Hussain,Peshawar,2024-05-04,4,2025-08-09,0,4.8,39573,Home Appliances,No,No
+C1045,Rizwan Qureshi,Hyderabad,2024-04-03,4,2026-04-10,1,3.8,34109,Kitchen Appliances,No,No
+C1046,Sidra Malik,Sialkot,2025-01-01,1,2026-01-11,1,3.7,9143,Audio,Yes,Yes
+C1047,Salman Iqbal,Rawalpindi,2025-03-23,2,2025-07-07,3,3.5,18069,Smartphones,No,Yes
+C1048,Adnan Khan,Multan,2025-11-14,5,2026-07-11,2,4.5,14079,Laptops,Yes,No
+C1049,Bilqees Ahmed,Sialkot,2025-11-20,3,2026-05-27,2,4.5,42279,Smartphones,Yes,No
+C1050,Fahad Chaudhry,Karachi,2025-08-16,4,2026-01-20,0,3.8,52818,Kitchen Appliances,Yes,No
+C1051,Ahsan Raza,Sialkot,2024-03-29,1,2025-10-15,2,3.4,8244,Accessories,No,Yes
+C1052,Rizwan Sheikh,Lahore,2025-04-14,10,2025-09-09,3,3.4,52301,Accessories,No,Yes
+C1053,Adnan Sheikh,Quetta,2025-04-11,6,2025-10-01,0,4.9,23060,Audio,Yes,No
+C1054,Zeeshan Chaudhry,Peshawar,2025-07-22,1,2026-02-15,0,4.3,7775,Accessories,No,No
+C1055,Sobia Butt,Lahore,2025-10-27,5,2025-11-23,1,4.0,67668,Audio,Yes,Yes
+C1056,Waqas Hussain,Rawalpindi,2025-08-22,5,2026-01-24,1,3.0,70310,Home Appliances,No,No
+C1057,Rabia Raza,Faisalabad,2025-11-07,1,2026-04-24,0,3.8,13198,Laptops,Yes,No
+C1058,Rabia Chaudhry,Hyderabad,2024-10-28,2,2026-06-10,3,3.7,14370,Kitchen Appliances,Yes,No
+C1059,Sana Qureshi,Faisalabad,2024-07-17,10,2025-09-08,3,2.1,113980,Audio,No,Yes
+C1060,Sara Khan,Faisalabad,2025-02-27,1,2026-06-28,1,5.0,3331,Laptops,No,No
+C1061,Amna Ahmed,Hyderabad,2024-05-10,3,2025-09-29,2,4.1,28449,Audio,No,No
+C1062,Komal Raza,Sialkot,2024-10-04,1,2025-07-18,0,4.0,6602,Smartphones,Yes,Yes
+C1063,Yusra Ahmed,Islamabad,2026-06-29,3,2026-07-01,0,4.1,40189,Audio,Yes,No
+C1064,Tariq Chaudhry,Rawalpindi,2025-04-22,1,2026-04-07,1,5.0,3607,Laptops,No,No
+C1065,Zeeshan Raza,Quetta,2026-02-24,3,2026-05-15,2,4.9,30461,Smartphones,Yes,No
+C1066,Haris Iqbal,Sialkot,2025-10-18,1,2026-04-05,5,4.5,17237,Kitchen Appliances,No,No
+C1067,Alishba Malik,Quetta,2025-01-16,5,2026-03-11,0,2.8,50609,Smartphones,No,No
+C1068,Fatima Iqbal,Lahore,2026-01-18,2,2026-02-04,1,3.4,28575,Smartphones,No,No
+C1069,Tariq Iqbal,Lahore,2024-05-01,3,2025-11-10,3,5.0,28982,Smartphones,Yes,No
+C1070,Laiba Sheikh,Quetta,2024-05-14,1,2026-03-17,1,4.8,13323,Smartphones,Yes,No
+C1071,Danish Butt,Islamabad,2025-08-17,4,2025-10-22,1,4.2,17035,Smartphones,Yes,Yes
+C1072,Talha Raza,Hyderabad,2024-07-09,2,2025-11-26,5,3.9,16891,Accessories,Yes,No
+C1073,Rabia Hussain,Multan,2024-04-16,3,2026-07-30,0,3.5,53949,Audio,Yes,No
+C1074,Farhan Iqbal,Multan,2024-12-13,6,2026-01-19,1,3.6,79867,Accessories,No,No
+C1075,Ahsan Hussain,Karachi,2025-08-10,5,2026-01-17,0,3.0,88513,Audio,Yes,No
+C1076,Wajiha Iqbal,Lahore,2024-02-17,3,2025-11-04,4,4.4,47998,Laptops,Yes,Yes
+C1077,Tariq Iqbal,Sialkot,2024-07-22,3,2026-06-20,3,5.0,25170,Home Appliances,No,No
+C1078,Bilal Chaudhry,Lahore,2025-11-03,4,2026-03-06,5,3.9,16103,Kitchen Appliances,Yes,No
+C1079,Areeba Raza,Karachi,2026-05-15,2,2026-07-24,0,3.5,21466,Accessories,Yes,No
+C1080,Hira Chaudhry,Peshawar,2024-10-05,5,2025-11-19,4,4.5,32183,Home Appliances,Yes,No
+C1081,Sidra Raza,Hyderabad,2026-01-21,1,2026-05-04,5,3.2,13200,Audio,No,Yes
+C1082,Salman Sheikh,Lahore,2025-11-01,3,2026-01-29,1,4.7,52974,Kitchen Appliances,No,No
+C1083,Zeeshan Khan,Sialkot,2024-05-29,3,2026-03-07,2,4.1,17684,Laptops,No,No
+C1084,Mahnoor Malik,Lahore,2024-09-27,4,2026-02-23,2,4.7,18148,Home Appliances,No,No
+C1085,Sara Butt,Islamabad,2024-04-17,4,2026-01-25,1,5.0,25932,Audio,No,No
+C1086,Fatima Ahmed,Quetta,2026-04-15,1,2026-07-03,3,3.5,17493,Accessories,No,No
+C1087,Anum Khan,Faisalabad,2024-12-29,1,2026-01-24,2,3.3,15247,Home Appliances,Yes,No
+C1088,Farhan Khan,Sialkot,2024-12-04,2,2025-09-22,0,5.0,33191,Home Appliances,No,Yes
+C1089,Bilal Khan,Faisalabad,2025-02-12,1,2026-04-02,3,4.6,12893,Kitchen Appliances,No,No
+C1090,Mahnoor Malik,Peshawar,2024-08-30,1,2025-11-23,1,4.6,13199,Laptops,No,No
+C1091,Amna Iqbal,Lahore,2024-07-29,2,2025-09-04,0,3.4,8787,Audio,Yes,Yes
+C1092,Hania Chaudhry,Karachi,2026-05-11,6,2026-06-30,5,4.0,92173,Accessories,Yes,No
+C1093,Waqas Iqbal,Islamabad,2024-04-15,8,2026-07-30,0,5.0,86987,Laptops,Yes,No
+C1094,Ayesha Malik,Karachi,2025-06-30,6,2026-04-01,1,4.6,26789,Audio,Yes,No
+C1095,Farhan Sheikh,Multan,2025-01-22,4,2025-12-12,1,4.2,58560,Kitchen Appliances,No,No
+C1096,Ayesha Khan,Quetta,2024-02-15,3,2025-08-14,0,3.7,49316,Home Appliances,Yes,Yes
+C1097,Rabia Chaudhry,Sialkot,2024-12-17,5,2026-01-17,5,2.9,59421,Smartphones,Yes,No
+C1098,Hania Qureshi,Rawalpindi,2025-04-17,3,2026-04-06,1,4.3,41427,Home Appliances,No,No
+C1099,Tariq Iqbal,Islamabad,2024-07-28,8,2026-06-27,0,4.7,112329,Home Appliances,Yes,No
+C1100,Wajiha Qureshi,Hyderabad,2025-07-29,5,2026-01-02,0,3.1,79777,Kitchen Appliances,Yes,No
+C1101,Danish Raza,Multan,2026-03-17,4,2026-06-07,0,2.2,31707,Accessories,No,No
+C1102,Rabia Chaudhry,Rawalpindi,2024-03-27,3,2025-10-17,5,4.4,37386,Smartphones,No,Yes
+C1103,Rabia Raza,Multan,2025-07-07,1,2026-05-19,1,3.5,12314,Smartphones,Yes,No
+C1104,Nida Hussain,Peshawar,2025-03-24,2,2026-01-23,0,2.9,23483,Smartphones,Yes,Yes
+C1105,Laiba Khan,Lahore,2025-09-26,3,2025-12-26,1,3.2,42605,Smartphones,No,No
+C1106,Imran Chaudhry,Quetta,2025-01-08,5,2026-07-08,0,4.2,28343,Laptops,Yes,No
+C1107,Imran Iqbal,Lahore,2026-06-24,3,2026-07-04,0,2.9,30762,Kitchen Appliances,No,No
+C1108,Haris Khan,Peshawar,2026-06-12,3,2026-07-27,3,2.9,40492,Audio,No,No
+C1109,Ayesha Iqbal,Islamabad,2024-04-02,10,2025-12-08,3,4.2,155895,Laptops,No,No
+C1110,Sobia Ahmed,Peshawar,2025-08-18,5,2026-04-09,0,4.4,21337,Accessories,Yes,No
+C1111,Junaid Iqbal,Islamabad,2025-11-02,1,2026-03-22,0,2.7,12660,Laptops,No,No
+C1112,Zeeshan Chaudhry,Quetta,2024-08-03,8,2025-10-15,1,4.7,140401,Home Appliances,Yes,No
+C1113,Farhan Sheikh,Faisalabad,2024-04-07,2,2026-07-03,0,4.8,6166,Home Appliances,No,No
+C1114,Hira Chaudhry,Sialkot,2025-01-28,3,2025-10-07,1,4.4,28413,Accessories,Yes,No
+C1115,Farhan Qureshi,Islamabad,2026-04-29,3,2026-06-18,5,5.0,9320,Kitchen Appliances,No,No
+C1116,Sobia Qureshi,Sialkot,2026-01-20,2,2026-05-20,0,4.1,6623,Kitchen Appliances,No,No
+C1117,Fahad Qureshi,Peshawar,2025-09-14,2,2025-09-26,3,3.3,9384,Home Appliances,No,No
+C1118,Areeba Hussain,Islamabad,2024-10-30,5,2026-06-18,0,2.8,75522,Kitchen Appliances,Yes,No
+C1119,Komal Qureshi,Multan,2026-06-13,2,2026-07-20,4,3.1,10952,Laptops,Yes,Yes
+C1120,Fahad Qureshi,Hyderabad,2024-02-27,5,2025-11-04,0,3.1,22656,Audio,Yes,Yes
+C1121,Areeba Chaudhry,Islamabad,2024-06-23,3,2026-01-02,0,3.4,35893,Kitchen Appliances,No,No
+C1122,Amna Raza,Quetta,2024-02-27,1,2025-08-18,4,4.9,6867,Audio,No,No
+C1123,Kashif Chaudhry,Islamabad,2025-10-18,1,2025-11-27,3,3.5,15611,Smartphones,No,Yes
+C1124,Adeel Raza,Quetta,2025-01-22,1,2025-12-20,0,5.0,16212,Smartphones,No,No
+C1125,Shahid Iqbal,Rawalpindi,2025-06-01,15,2026-01-21,0,3.7,203669,Home Appliances,Yes,No
+C1126,Imran Sheikh,Islamabad,2024-05-15,5,2025-12-14,1,4.0,29213,Laptops,No,Yes
+C1127,Imran Butt,Faisalabad,2026-02-27,1,2026-04-15,1,3.7,15469,Audio,Yes,No
+C1128,Zeeshan Butt,Islamabad,2025-09-06,3,2025-09-20,0,3.4,38572,Accessories,No,Yes
+C1129,Sobia Qureshi,Hyderabad,2024-04-17,15,2025-10-21,0,4.1,127450,Home Appliances,No,No
+C1130,Junaid Ahmed,Multan,2025-10-28,5,2026-06-08,2,3.8,15936,Accessories,No,No
+C1131,Sara Sheikh,Quetta,2024-09-23,1,2026-05-23,0,4.1,7048,Smartphones,Yes,No
+C1132,Asad Raza,Hyderabad,2025-05-20,15,2025-10-26,1,5.0,104021,Smartphones,No,No
+C1133,Iqra Hussain,Peshawar,2024-05-31,3,2026-01-15,0,4.4,24582,Accessories,No,No
+C1134,Mahnoor Hussain,Lahore,2025-04-17,4,2026-04-30,1,3.7,50977,Home Appliances,No,No
+C1135,Komal Malik,Quetta,2025-07-07,3,2025-07-24,3,2.0,20267,Smartphones,Yes,Yes
+C1136,Anum Iqbal,Hyderabad,2024-04-02,5,2026-05-11,4,4.7,73052,Smartphones,Yes,No
+C1137,Ahsan Iqbal,Multan,2025-06-04,10,2026-07-15,1,3.0,82662,Smartphones,Yes,No
+C1138,Anum Iqbal,Faisalabad,2025-10-19,10,2026-07-18,2,3.0,112059,Home Appliances,No,No
+C1139,Nida Chaudhry,Faisalabad,2024-07-21,8,2025-11-22,0,4.1,41409,Kitchen Appliances,No,No
+C1140,Saad Iqbal,Multan,2024-07-05,1,2025-10-27,0,3.7,13498,Kitchen Appliances,Yes,No
+C1141,Shahid Butt,Lahore,2025-12-08,6,2026-06-01,2,5.0,49309,Accessories,Yes,No
+C1142,Hira Ahmed,Faisalabad,2025-05-20,15,2025-07-28,1,3.1,171164,Laptops,No,No
+C1143,Naveed Sheikh,Hyderabad,2025-07-14,1,2025-10-22,1,4.9,9206,Smartphones,Yes,Yes
+C1144,Sadia Malik,Islamabad,2025-08-05,8,2026-04-07,0,5.0,124896,Home Appliances,Yes,No
+C1145,Yusra Raza,Islamabad,2024-09-29,2,2025-10-31,0,3.1,23000,Laptops,No,No
+C1146,Zeeshan Khan,Karachi,2026-04-09,1,2026-05-10,2,3.8,11368,Accessories,Yes,No
+C1147,Omar Qureshi,Faisalabad,2024-09-12,10,2025-11-26,0,4.2,95299,Kitchen Appliances,Yes,No
+C1148,Rizwan Sheikh,Quetta,2025-12-05,2,2026-06-25,0,3.6,31684,Audio,Yes,No
+C1149,Shahid Qureshi,Lahore,2025-08-09,2,2026-05-30,0,3.9,13997,Audio,No,No
+C1150,Adeel Iqbal,Sialkot,2024-06-23,2,2025-07-06,0,4.9,32251,Audio,Yes,Yes
+C1151,Anum Qureshi,Quetta,2025-10-28,2,2026-02-01,0,3.7,31128,Kitchen Appliances,No,No
+C1152,Ali Ahmed,Peshawar,2026-02-14,7,2026-04-29,2,3.3,79376,Laptops,No,No
+C1153,Usman Hussain,Hyderabad,2025-03-27,6,2026-03-10,3,3.0,26966,Smartphones,No,No
+C1154,Fatima Qureshi,Multan,2024-05-19,1,2025-09-26,1,3.6,4624,Home Appliances,No,Yes
+C1155,Mariam Chaudhry,Hyderabad,2026-02-08,2,2026-02-25,0,2.9,31121,Accessories,No,No
+C1156,Shahid Qureshi,Quetta,2024-07-06,4,2025-11-30,3,3.0,70754,Accessories,No,No
+C1157,Mahnoor Khan,Sialkot,2025-03-03,2,2025-08-30,2,4.1,27363,Accessories,No,Yes
+C1158,Omar Chaudhry,Peshawar,2026-01-31,6,2026-05-30,0,4.3,16761,Home Appliances,No,No
+C1159,Areeba Butt,Peshawar,2025-02-03,6,2025-12-02,3,3.9,27842,Laptops,No,No
+C1160,Farhan Qureshi,Peshawar,2025-08-14,10,2025-12-08,4,3.4,144658,Kitchen Appliances,No,No
+C1161,Kashif Butt,Faisalabad,2024-12-07,2,2026-03-01,2,3.5,20159,Audio,No,No
+C1162,Mahnoor Raza,Faisalabad,2026-02-27,4,2026-03-14,0,5.0,69186,Laptops,No,No
+C1163,Talha Ahmed,Multan,2025-04-05,5,2025-07-14,1,4.2,84809,Kitchen Appliances,No,Yes
+C1164,Laiba Chaudhry,Rawalpindi,2025-10-26,1,2025-11-02,0,3.9,7620,Audio,Yes,No
+C1165,Hamza Khan,Hyderabad,2026-01-21,3,2026-04-01,1,4.6,22434,Kitchen Appliances,Yes,No
+C1166,Hira Chaudhry,Rawalpindi,2024-12-31,5,2026-07-12,4,4.7,26124,Smartphones,No,No
+C1167,Sara Raza,Karachi,2026-06-22,2,2026-06-23,0,4.6,35662,Accessories,No,No
+C1168,Hamza Qureshi,Quetta,2025-09-25,1,2026-06-04,0,3.7,13638,Smartphones,No,No
+C1169,Zeeshan Butt,Islamabad,2024-10-14,7,2026-01-05,3,3.5,90114,Laptops,Yes,No
+C1170,Amna Khan,Faisalabad,2025-06-04,2,2025-07-11,0,3.3,22759,Home Appliances,No,Yes
+C1171,Sana Ahmed,Quetta,2025-08-21,1,2025-11-16,4,5.0,13200,Kitchen Appliances,No,No
+C1172,Waqas Butt,Islamabad,2025-02-27,1,2025-07-14,5,2.9,16648,Accessories,Yes,Yes
+C1173,Saad Chaudhry,Lahore,2025-01-09,3,2025-08-05,0,4.3,46038,Accessories,Yes,No
+C1174,Mariam Malik,Multan,2025-01-15,3,2025-08-17,0,3.6,31232,Smartphones,No,Yes
+C1175,Rizwan Sheikh,Sialkot,2026-05-03,4,2026-05-06,3,3.7,60620,Kitchen Appliances,Yes,No
+C1176,Bilal Hussain,Multan,2024-07-14,1,2026-07-01,4,5.0,2992,Audio,Yes,No
+C1177,Ahsan Hussain,Multan,2025-06-05,3,2026-01-19,0,3.4,32577,Kitchen Appliances,No,No
+C1178,Adnan Hussain,Hyderabad,2026-02-21,5,2026-06-04,3,4.0,48383,Kitchen Appliances,No,No
+C1179,Waqas Butt,Quetta,2025-07-12,1,2026-04-26,4,3.8,15047,Audio,Yes,No
+C1180,Usman Ahmed,Sialkot,2026-05-28,3,2026-07-25,0,4.8,32599,Smartphones,Yes,No
+C1181,Imran Butt,Sialkot,2025-08-09,4,2025-08-21,3,4.1,71113,Accessories,Yes,Yes
+C1182,Rabia Khan,Hyderabad,2024-11-03,7,2026-05-03,1,3.0,122993,Kitchen Appliances,No,No
+C1183,Asad Hussain,Peshawar,2026-01-30,2,2026-06-14,2,2.2,14323,Kitchen Appliances,Yes,No
+C1184,Sana Qureshi,Peshawar,2025-05-01,4,2026-05-24,0,3.9,14902,Audio,No,No
+C1185,Mahnoor Butt,Karachi,2025-09-30,2,2026-07-11,3,4.5,27453,Accessories,Yes,No
+C1186,Fatima Raza,Karachi,2025-11-27,8,2025-11-27,2,3.9,133391,Kitchen Appliances,Yes,No
+C1187,Amna Qureshi,Multan,2024-04-28,2,2025-12-05,1,3.5,20897,Audio,No,Yes
+C1188,Mahnoor Sheikh,Multan,2025-12-05,2,2026-04-17,0,4.9,5503,Accessories,No,No
+C1189,Kashif Iqbal,Rawalpindi,2025-06-08,4,2026-03-28,1,3.1,25954,Audio,No,No
+C1190,Mahnoor Iqbal,Islamabad,2026-02-08,5,2026-03-28,0,5.0,86686,Accessories,Yes,No
+C1191,Usman Khan,Karachi,2025-05-05,1,2025-09-12,0,3.9,10339,Home Appliances,Yes,No
+C1192,Bilqees Chaudhry,Quetta,2024-08-25,3,2026-07-28,1,3.8,41082,Accessories,No,No
+C1193,Areeba Hussain,Islamabad,2026-03-14,8,2026-03-19,0,4.3,121087,Home Appliances,No,No
+C1194,Anum Sheikh,Sialkot,2025-10-25,15,2026-04-07,0,4.1,268064,Kitchen Appliances,Yes,No
+C1195,Salman Hussain,Hyderabad,2025-03-01,1,2026-07-27,2,5.0,12496,Home Appliances,Yes,No
+C1196,Bilal Butt,Rawalpindi,2024-07-23,7,2025-11-30,0,5.0,47920,Accessories,Yes,No
+C1197,Asad Khan,Rawalpindi,2024-11-07,1,2025-08-01,3,4.6,11241,Accessories,No,Yes
+C1198,Adnan Iqbal,Peshawar,2024-05-19,5,2025-08-13,2,1.5,16661,Audio,Yes,Yes
+C1199,Fatima Chaudhry,Sialkot,2024-10-30,3,2025-06-30,0,2.9,28451,Laptops,No,Yes
+C1200,Salman Hussain,Islamabad,2024-08-04,4,2026-01-18,0,2.7,54213,Smartphones,No,No
+C1201,Talha Malik,Peshawar,2025-08-11,2,2026-06-15,0,3.6,13363,Laptops,Yes,No
+C1202,Naveed Qureshi,Hyderabad,2025-01-23,3,2026-07-18,0,2.8,43976,Audio,Yes,No
+C1203,Salman Ahmed,Hyderabad,2025-10-26,4,2026-05-06,2,4.2,26641,Laptops,Yes,No
+C1204,Rabia Hussain,Faisalabad,2025-02-21,6,2026-01-28,0,3.9,70224,Laptops,No,Yes
+C1205,Sadia Khan,Peshawar,2025-07-26,7,2026-01-18,3,3.5,105979,Kitchen Appliances,Yes,No
+C1206,Danish Butt,Quetta,2025-08-14,1,2026-01-09,5,3.5,10111,Accessories,Yes,Yes
+C1207,Rabia Hussain,Multan,2026-03-07,8,2026-06-10,1,2.6,88212,Kitchen Appliances,No,No
+C1208,Nida Sheikh,Faisalabad,2024-03-02,5,2026-01-03,2,4.4,32083,Laptops,No,No
+C1209,Usman Sheikh,Sialkot,2025-02-26,4,2025-10-31,1,5.0,43706,Home Appliances,Yes,No
+C1210,Amna Iqbal,Islamabad,2024-09-07,4,2025-10-16,5,3.5,56666,Audio,Yes,Yes
+C1211,Tariq Butt,Hyderabad,2024-05-28,3,2025-10-07,2,4.1,29032,Kitchen Appliances,Yes,Yes
+C1212,Ayesha Sheikh,Lahore,2025-09-02,3,2026-06-18,0,4.4,22003,Audio,Yes,No
+C1213,Junaid Sheikh,Lahore,2025-04-09,5,2025-12-12,0,3.4,21419,Home Appliances,Yes,No
+C1214,Adeel Butt,Hyderabad,2026-01-04,4,2026-05-08,1,4.5,35113,Laptops,Yes,No
+C1215,Komal Hussain,Karachi,2024-06-06,4,2026-04-21,1,3.8,23317,Home Appliances,Yes,No
+C1216,Adnan Malik,Multan,2025-08-02,1,2026-06-03,0,4.6,12406,Accessories,No,No
+C1217,Wajiha Ahmed,Multan,2025-07-06,7,2025-09-18,0,3.2,117177,Accessories,Yes,No
+C1218,Asad Ahmed,Rawalpindi,2025-08-23,1,2026-01-21,2,3.0,4637,Audio,No,Yes
+C1219,Omar Qureshi,Islamabad,2024-12-10,1,2026-03-06,0,3.5,3331,Home Appliances,Yes,No
+C1220,Kashif Hussain,Hyderabad,2025-01-30,5,2026-01-03,2,2.4,50374,Smartphones,Yes,No
+C1221,Waqas Raza,Karachi,2025-09-23,2,2026-03-06,0,2.5,28744,Accessories,Yes,No
+C1222,Rabia Qureshi,Multan,2024-12-23,6,2026-07-10,2,3.3,54539,Kitchen Appliances,Yes,No
+C1223,Bilal Sheikh,Faisalabad,2025-07-10,7,2026-06-17,1,5.0,43209,Kitchen Appliances,No,No
+C1224,Laiba Hussain,Islamabad,2024-10-09,1,2026-04-17,3,4.3,10750,Accessories,Yes,No
+C1225,Talha Raza,Faisalabad,2024-11-22,2,2025-11-10,5,3.7,34846,Audio,Yes,No
+C1226,Hania Malik,Islamabad,2025-10-19,1,2026-02-17,3,4.0,10087,Accessories,No,No
+C1227,Salman Sheikh,Lahore,2024-09-21,6,2025-07-03,0,3.2,102079,Home Appliances,No,No
+C1228,Asad Chaudhry,Karachi,2024-04-30,7,2026-06-14,2,2.6,56367,Smartphones,No,No
+C1229,Komal Butt,Quetta,2025-09-30,2,2026-03-08,0,2.9,20045,Home Appliances,Yes,No
+C1230,Omar Sheikh,Karachi,2026-02-24,8,2026-06-21,1,5.0,45087,Kitchen Appliances,Yes,No
+C1231,Sadia Malik,Faisalabad,2026-03-28,5,2026-06-29,0,3.2,16514,Kitchen Appliances,No,No
+C1232,Alishba Butt,Peshawar,2024-08-29,1,2026-06-13,0,3.4,6006,Kitchen Appliances,No,Yes
+C1233,Areeba Iqbal,Lahore,2025-04-25,5,2025-11-29,0,2.8,20438,Home Appliances,No,No
+C1234,Hamza Hussain,Islamabad,2024-09-13,15,2026-05-19,0,2.8,75657,Home Appliances,Yes,No
+C1235,Mariam Hussain,Sialkot,2024-07-28,3,2026-04-11,0,5.0,34915,Audio,No,No
+C1236,Asad Malik,Rawalpindi,2025-09-21,4,2026-03-26,1,2.9,58296,Kitchen Appliances,Yes,No
+C1237,Bilqees Raza,Rawalpindi,2025-01-17,4,2026-04-26,2,3.8,65671,Laptops,No,No
+C1238,Amna Sheikh,Sialkot,2026-04-20,3,2026-07-30,5,4.3,47528,Accessories,No,No
+C1239,Saad Malik,Quetta,2024-05-04,1,2025-10-04,0,3.9,3437,Audio,No,No
+C1240,Shahid Hussain,Peshawar,2024-07-13,3,2025-09-07,1,3.4,21911,Accessories,Yes,No
+C1241,Mariam Qureshi,Multan,2025-05-27,4,2025-07-06,3,3.8,53318,Kitchen Appliances,Yes,Yes
+C1242,Hira Hussain,Lahore,2025-03-24,4,2026-07-03,0,3.8,17405,Kitchen Appliances,Yes,No
+C1243,Adeel Sheikh,Multan,2025-01-12,3,2025-07-27,0,2.9,48116,Kitchen Appliances,Yes,Yes
+C1244,Ayesha Iqbal,Peshawar,2025-09-26,3,2026-03-19,2,3.6,28667,Home Appliances,Yes,No
+C1245,Zeeshan Malik,Multan,2026-01-21,2,2026-07-05,3,3.7,27964,Smartphones,Yes,No
+C1246,Ali Butt,Karachi,2025-03-05,2,2026-05-16,0,4.1,29897,Kitchen Appliances,No,No
+C1247,Amna Hussain,Multan,2025-09-27,6,2025-10-12,0,2.0,31679,Accessories,Yes,No
+C1248,Usman Sheikh,Faisalabad,2024-04-30,7,2026-02-14,0,3.1,49138,Home Appliances,Yes,No
+C1249,Wajiha Sheikh,Rawalpindi,2024-06-11,8,2025-07-07,2,5.0,22965,Accessories,No,Yes
+C1250,Areeba Khan,Multan,2026-06-30,6,2026-07-07,3,3.8,64273,Laptops,No,No
+C1251,Sana Malik,Faisalabad,2026-03-28,1,2026-07-02,3,2.5,8274,Kitchen Appliances,Yes,No
+C1252,Shahid Malik,Peshawar,2026-04-16,4,2026-07-24,1,4.5,26181,Home Appliances,No,No
+C1253,Haris Iqbal,Multan,2025-03-25,2,2026-06-23,4,4.9,8378,Smartphones,Yes,No
+C1254,Asad Hussain,Lahore,2024-12-30,2,2025-07-02,0,3.6,8717,Laptops,No,Yes
+C1255,Areeba Chaudhry,Karachi,2025-11-23,7,2026-05-09,0,3.3,60493,Smartphones,No,No
+C1256,Sara Khan,Peshawar,2025-03-25,4,2025-10-23,0,2.3,18667,Smartphones,Yes,No
+C1257,Waqas Malik,Rawalpindi,2024-03-10,3,2025-08-14,1,3.2,19535,Smartphones,Yes,No
+C1258,Kashif Sheikh,Islamabad,2026-03-29,8,2026-04-16,3,5.0,26279,Accessories,No,No
+C1259,Anum Sheikh,Karachi,2025-06-05,5,2026-05-04,0,4.5,47066,Laptops,Yes,No
+C1260,Laiba Butt,Faisalabad,2025-02-06,3,2025-10-23,1,4.7,26994,Kitchen Appliances,Yes,No
+C1261,Adnan Khan,Peshawar,2024-04-22,5,2025-11-28,1,1.9,51435,Audio,No,Yes
+C1262,Asad Chaudhry,Rawalpindi,2026-06-01,8,2026-06-12,0,4.3,64322,Accessories,Yes,No
+C1263,Fahad Butt,Rawalpindi,2025-10-02,4,2026-07-03,2,5.0,70925,Audio,No,No
+C1264,Sara Malik,Rawalpindi,2024-11-02,2,2025-07-19,2,4.1,26717,Accessories,Yes,Yes
+C1265,Kashif Sheikh,Hyderabad,2025-08-19,1,2026-07-12,0,4.0,10660,Smartphones,No,No
+C1266,Kashif Malik,Multan,2024-06-27,1,2026-02-16,0,4.7,4696,Smartphones,No,No
+C1267,Iqra Hussain,Sialkot,2026-03-20,2,2026-05-10,0,5.0,29547,Audio,No,No
+C1268,Yusra Chaudhry,Multan,2025-11-15,5,2026-05-03,0,3.8,26272,Smartphones,No,No
+C1269,Ahsan Chaudhry,Karachi,2025-12-27,4,2026-01-05,5,4.1,68075,Laptops,No,No
+C1270,Amna Iqbal,Multan,2026-01-11,4,2026-07-09,3,3.2,30816,Smartphones,No,No
+C1271,Areeba Ahmed,Multan,2025-10-12,6,2026-07-31,0,3.0,30469,Audio,No,No
+C1272,Junaid Qureshi,Peshawar,2026-03-20,6,2026-06-04,0,5.0,42427,Home Appliances,No,No
+C1273,Usman Iqbal,Islamabad,2025-06-12,1,2026-06-23,1,4.2,11707,Accessories,No,No
+C1274,Komal Malik,Sialkot,2025-04-13,1,2026-06-10,0,4.8,11089,Kitchen Appliances,No,No
+C1275,Sadia Butt,Lahore,2026-05-12,3,2026-05-22,3,4.4,27384,Home Appliances,No,No
+C1276,Ayesha Butt,Islamabad,2024-09-16,2,2026-06-20,1,5.0,19599,Kitchen Appliances,No,No
+C1277,Adnan Hussain,Islamabad,2025-06-17,7,2026-01-23,0,4.8,46079,Home Appliances,Yes,No
+C1278,Areeba Ahmed,Lahore,2024-08-16,2,2025-10-27,1,3.9,6890,Audio,No,No
+C1279,Saad Sheikh,Sialkot,2025-11-02,3,2026-06-21,0,4.0,34062,Accessories,Yes,No
+C1280,Alishba Sheikh,Islamabad,2026-01-11,10,2026-06-12,0,1.5,92486,Kitchen Appliances,Yes,No
+C1281,Tariq Iqbal,Lahore,2026-04-03,3,2026-06-11,1,4.6,50148,Smartphones,No,No
+C1282,Mariam Malik,Sialkot,2024-11-06,4,2026-06-10,4,3.5,27738,Accessories,No,No
+C1283,Tariq Hussain,Quetta,2024-11-23,4,2026-07-12,0,2.9,52210,Audio,Yes,No
+C1284,Fatima Butt,Karachi,2024-05-29,3,2026-03-16,3,5.0,21592,Home Appliances,No,No
+C1285,Saad Ahmed,Rawalpindi,2026-02-14,2,2026-04-09,2,3.3,23754,Smartphones,Yes,No
+C1286,Rizwan Sheikh,Hyderabad,2025-06-14,6,2025-11-10,2,5.0,52515,Accessories,Yes,Yes
+C1287,Kashif Khan,Rawalpindi,2026-05-29,3,2026-06-15,2,3.6,30988,Kitchen Appliances,Yes,No
+C1288,Amna Iqbal,Quetta,2024-10-31,3,2025-12-01,1,3.6,49094,Kitchen Appliances,Yes,Yes
+C1289,Salman Khan,Islamabad,2024-11-23,6,2026-04-13,3,3.1,40025,Audio,Yes,No
+C1290,Ahsan Khan,Quetta,2026-02-16,4,2026-02-28,3,4.1,68466,Kitchen Appliances,No,No
+C1291,Salman Iqbal,Quetta,2025-10-16,2,2026-02-27,2,4.3,8172,Accessories,No,No
+C1292,Danish Chaudhry,Faisalabad,2025-08-30,5,2025-11-27,0,5.0,79266,Home Appliances,No,No
+C1293,Sobia Butt,Karachi,2024-03-29,7,2025-09-27,1,3.7,20262,Audio,No,Yes
+C1294,Rizwan Hussain,Peshawar,2024-06-07,1,2025-08-03,5,4.2,13557,Kitchen Appliances,No,No
+C1295,Bilqees Iqbal,Hyderabad,2025-08-28,7,2025-08-29,3,4.1,31382,Home Appliances,Yes,No
+C1296,Fatima Ahmed,Rawalpindi,2025-07-03,2,2026-02-24,1,4.6,23153,Audio,Yes,No
+C1297,Omar Chaudhry,Sialkot,2024-10-04,1,2026-04-23,1,4.5,7125,Smartphones,Yes,No
+C1298,Kashif Iqbal,Peshawar,2024-11-25,8,2025-12-09,0,4.3,30021,Home Appliances,Yes,No
+C1299,Sana Khan,Quetta,2025-09-24,2,2026-05-06,1,4.8,29172,Laptops,No,No
+C1300,Anum Hussain,Quetta,2025-06-04,1,2025-10-31,0,3.8,7494,Accessories,Yes,Yes
