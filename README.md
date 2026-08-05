@@ -4,6 +4,10 @@
 
 ## Project Overview
 
+**Backend live at** : [ai-engineering-projects-production.up.railway.app](https://ai-engineering-projects-production.up.railway.app/docs)
+
+**Frontend live at** : https://arosha27-ai-engineering-projects-appfrontend-updated-o5jaxf.streamlit.app/
+
 BrightByte AI Copilot is a **production-ready system** that demonstrates full-stack AI engineering skills:
 
 - **RAG Chatbot**: Answers customer questions accurately using company documents, with built-in confidence detection
