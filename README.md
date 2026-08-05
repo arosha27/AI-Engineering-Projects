@@ -5,7 +5,8 @@
 ## Project Overview
 
 **Backend live at** : ai-engineering-projects-production.up.railway.app
-**Frontend live at** : 
+
+**Frontend live at** : https://arosha27-ai-engineering-projects-appfrontend-updated-o5jaxf.streamlit.app/
 
 BrightByte AI Copilot is a **production-ready system** that demonstrates full-stack AI engineering skills:
 
