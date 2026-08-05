@@ -270,7 +270,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # --- API Configuration ---
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://ai-engineering-projects-production.up.railway.app"
 REQUEST_TIMEOUT = 30
 
 # --- Session State Initialization ---
@@ -308,7 +308,7 @@ def safe_api_call(endpoint: str, method: str = "GET", json_data: Optional[dict] 
         st.error("❌ Request timeout. The backend may be down. Check if uvicorn is running.")
         return None
     except requests.exceptions.ConnectionError:
-        st.error("❌ Cannot connect to the backend at http://127.0.0.1:8000. Start uvicorn with: `uvicorn app.main:app --reload`")
+        st.error("❌ Cannot connect to the backend at https://ai-engineering-projects-production.up.railway.app . Start uvicorn with: `uvicorn app.main:app --reload`")
         return None
     except requests.exceptions.HTTPError as e:
         st.error(f"❌ Backend error: {e.response.status_code} - {e.response.text[:200]}")
